@@ -15,5 +15,11 @@ $pluginsInfo = array(
         'name' => 'Canvas Extension - Sticky Nav',
         'latest-version' => '1.0.0',
         'description' => 'Make primary navigation sticky'
+    ),
+    'cx-page-customizer' => array(
+        'product-id' => 14480,
+        'name' => 'Canvas Extension - Page Customizer',
+        'latest-version' => '1.2',
+        'description' => '<li>v1.2 - add ability to update in WordPress dashboard</li><li>v1.1 - fix layout saving issue, bg color not over-riding & header image issue</li><li>v1.0 - Initial Release</li>'
     )
 );
