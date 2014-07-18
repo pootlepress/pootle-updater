@@ -33,4 +33,5 @@ $pluginsInfo = array(
         'name' => 'Canvas Extension - Horizontal Sub-menu',
         'latest-version' => '1.0.1',
         'description' => '<li>1.0.1 -Add compat with Center Menu and Logo with Full Width</li>'
+    )
 );
