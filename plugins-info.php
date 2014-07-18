@@ -31,7 +31,7 @@ $pluginsInfo = array(
     'cx-horizontal-sub-menu' => array(
         'product-id' => 14337,
         'name' => 'Canvas Extension - Horizontal Sub-menu',
-        'latest-version' => '1.0.1',
-        'description' => '<li>1.0.1 -Add compat with Center Menu and Logo with Full Width</li>'
+        'latest-version' => '1.1',
+        'description' => '<li>v1.1 - Ability to get update notifications & update within WordPress</li><li>1.0.1 -Add compat with Center Menu and Logo with Full Width</li>'
     )
 );
