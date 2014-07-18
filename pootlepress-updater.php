@@ -54,7 +54,7 @@ function pootlepress_updater() {
 //                'changelog' => 'Some new features'
                             );
 
-                            $obj->download_link = 'http://jamiemarsland.staging.wpengine.com/?updater=1&plugin=' . urlencode($pluginSlug);
+                            $obj->download_link = 'http://www.pootlepress.com/?updater=1&plugin=' . urlencode($pluginSlug);
 //                            $obj->download_link = 'http://pootle.localhost/wordpress/?updater=1&plugin=' . urlencode($pluginSlug);
                             echo serialize($obj);
                             die();
