@@ -21,5 +21,11 @@ $pluginsInfo = array(
         'name' => 'Canvas Extension - Page Customizer',
         'latest-version' => '1.2',
         'description' => '<li>v1.2 - add ability to update in WordPress dashboard</li><li>v1.1 - fix layout saving issue, bg color not over-riding & header image issue</li><li>v1.0 - Initial Release</li>'
+    ),
+    'page-builder-for-canvas' => array(
+        'product-id' => 13731,
+        'name' => 'Canvas Extension - Page Builder for Canvas',
+        'latest-version' => '1.0',
+        'description' => '<li>1.0 - Visual editor widget now bundled / New row visual styling options / Page Builder widget options / general bug fixes</li>'
     )
 );
