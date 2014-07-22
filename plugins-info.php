@@ -10,25 +10,25 @@ $pluginsInfo = array(
         'latest-version' => '1.0.0',
         'description' => '<li>Update 1</li><li>Update 2</li>'
     ),
-    'cx-sticky-nav' => array(
+    'cx-sticky-nav-master' => array(
         'product-id' => 10897,
         'name' => 'Canvas Extension - Sticky Nav',
         'latest-version' => '1.0.0',
         'description' => 'Make primary navigation sticky'
     ),
-    'cx-page-customizer' => array(
+    'cx-page-customizer-master' => array(
         'product-id' => 14480,
         'name' => 'Canvas Extension - Page Customizer',
-        'latest-version' => '1.2',
+        'latest-version' => '1.3',
         'description' => '<li>v1.2 - add ability to update in WordPress dashboard</li><li>v1.1 - fix layout saving issue, bg color not over-riding & header image issue</li><li>v1.0 - Initial Release</li>'
     ),
-    'page-builder-for-canvas' => array(
+    'page-builder-for-canvas-master' => array(
         'product-id' => 13731,
         'name' => 'Canvas Extension - Page Builder for Canvas',
         'latest-version' => '1.0',
         'description' => '<li>1.0 - Visual editor widget now bundled / New row visual styling options / Page Builder widget options / general bug fixes</li>'
     ),
-    'cx-horizontal-sub-menu' => array(
+    'cx-horizontal-sub-menu-master' => array(
         'product-id' => 14337,
         'name' => 'Canvas Extension - Horizontal Sub-menu',
         'latest-version' => '1.1',
