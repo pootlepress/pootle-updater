@@ -75,5 +75,35 @@ $pluginsInfo = array(
         'name' => 'Canvas Extension - Papple Menu',
         'latest-version' => '1.1',
         'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
+    ),
+        'cx-menu-woothemes-master' => array(
+        'product-id' => 11835,
+        'name' => 'Canvas Extension - Wootle Menu',
+        'latest-version' => '1.1',
+        'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
+    ),
+        'cx-center-menu-and-logo-master' => array(
+        'product-id' => 11668,
+        'name' => 'Canvas Extension - Wootle Menu',
+        'latest-version' => '1.2',
+        'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
+    ),
+        'cx-sticky-header-2-master' => array(
+        'product-id' => 11531,
+        'name' => 'Canvas Extension - Sticky Header',
+        'latest-version' => '2.1',
+        'description' => '<li>2.1 - Ability to get update notifications & update within WordPress</li>'
+    ),
+        'cx-footer-widget-manager-master' => array(
+        'product-id' => 11305,
+        'name' => 'Canvas Extension - Footer Widget Manager',
+        'latest-version' => '1.1',
+        'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
+    ),
+        'cx-menu-pack-master' => array(
+        'product-id' => 11305,
+        'name' => 'Canvas Extension - Menu Pack',
+        'latest-version' => '1.3',
+        'description' => '<li>1.3 - Ability to get update notifications & update within WordPress</li>'
     )
 );
