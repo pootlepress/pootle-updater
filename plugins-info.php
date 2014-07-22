@@ -57,11 +57,22 @@ $pluginsInfo = array(
         'name' => 'Canvas Extension - Font Awesome Menus for Canvas',
         'latest-version' => '1.2',
         'description' => '<li>1.2 - Ability to get update notifications & update within WordPress</li>'
-    )
-    ,
+    ),
     'cx-mobile-menu-manager-master' => array(
         'product-id' => 12702,
         'name' => 'Canvas Extension - Mobile Menu Manager',
+        'latest-version' => '1.1',
+        'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
+    ),
+    'cx-logo-inside-nav-master' => array(
+        'product-id' => 12473,
+        'name' => 'Canvas Extension - Logo Inside Nav',
+        'latest-version' => '1.2',
+        'description' => '<li>1.2 - Ability to get update notifications & update within WordPress</li>'
+    ),
+    'cx-menus-apple-master' => array(
+        'product-id' => 12300,
+        'name' => 'Canvas Extension - Papple Menu',
         'latest-version' => '1.1',
         'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
     )
