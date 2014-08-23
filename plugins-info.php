@@ -7,8 +7,8 @@ $pluginsInfo = array(
     'cx-align-menu-right-master' => array(
         'product-id' => 10896,
         'name' => 'Canvas Extension - Align Menu Right',
-        'latest-version' => '1.1',
-        'description' => '<li>1.1 - ability to update within WordPress</li>'
+        'latest-version' => '1.1.1',
+        'description' => '<li>1.1.1 - Make compatible with Sticky Header 2 & fix mobile panel issue</li><li>1.1 - ability to update within WordPress</li>'
     ),
     'cx-sticky-nav-master' => array(
         'product-id' => 10897,
