@@ -67,8 +67,8 @@ $pluginsInfo = array(
     'cx-logo-inside-nav-master' => array(
         'product-id' => 12473,
         'name' => 'Canvas Extension - Logo Inside Nav',
-        'latest-version' => '1.2',
-        'description' => '<li>1.2 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.2.1',
+        'description' => '<li>1.2.1 - compatibility with horizontal sub menu extension</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
     ),
     'cx-menus-apple-master' => array(
         'product-id' => 12300,
