@@ -25,8 +25,8 @@ $pluginsInfo = array(
     'page-builder-for-canvas-master' => array(
         'product-id' => 13731,
         'name' => 'Canvas Extension - Page Builder for Canvas',
-        'latest-version' => '1.1.1',
-        'description' => '<li>1.1.1 - Fix bottom margin for row</li><li>1.1. - ability to update within WordPress</li>'
+        'latest-version' => '1.1.2',
+        'description' => '<li>1.1.2 - fix list styling in visual editor widget & magazine slider widget</li><li>1.1.1 - Fix bottom margin for row</li><li>1.1. - ability to update within WordPress</li>'
     ),
     'cx-horizontal-sub-menu-master' => array(
         'product-id' => 14337,
