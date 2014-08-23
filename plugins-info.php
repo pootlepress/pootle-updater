@@ -73,8 +73,8 @@ $pluginsInfo = array(
     'cx-menus-apple-master' => array(
         'product-id' => 12300,
         'name' => 'Canvas Extension - Papple Menu',
-        'latest-version' => '1.1',
-        'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.1.1',
+        'description' => '<li>1.1.1 - fix compatibility with Woo Framework 6</li><li>1.1 - Ability to get update notifications & update within WordPress</li>'
     ),
         'cx-menu-woothemes-master' => array(
         'product-id' => 11835,
