@@ -19,8 +19,8 @@ $pluginsInfo = array(
     'cx-page-customizer-master' => array(
         'product-id' => 14480,
         'name' => 'Canvas Extension - Page Customizer',
-        'latest-version' => '1.2.2',
-        'description' => '<li>1.2.2 - fix padding issues in mobile</li><li>1.2.1 - Fix "Pages & posts" options</li><li>1.2 - add ability to update in WordPress dashboard, Fix center alignment in mobile</li><li>1.1 - fix layout saving issue, bg color not over-riding & header image issue</li><li>v1.0 - Initial Release</li>'
+        'latest-version' => '1.2.3',
+        'description' => '<li>1.2.3 - fix hide page title effecting post loop</li><li>1.2.2 - fix padding issues in mobile</li><li>1.2.1 - Fix "Pages & posts" options</li><li>1.2 - add ability to update in WordPress dashboard, Fix center alignment in mobile</li><li>1.1 - fix layout saving issue, bg color not over-riding & header image issue</li><li>v1.0 - Initial Release</li>'
     ),
     'page-builder-for-canvas-master' => array(
         'product-id' => 13731,
