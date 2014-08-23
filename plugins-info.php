@@ -49,8 +49,8 @@ $pluginsInfo = array(
     'cx-featured-video-for-slider-master' => array(
         'product-id' => 13145,
         'name' => 'Canvas Extension - Featured Video for Slider',
-        'latest-version' => '1.2',
-        'description' => '<li>1.2 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.3',
+        'description' => '<li>1.3 - add ability to use any full embed code for videos</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
     ),
     'cx-font-awesome-menus-for-canvas-master' => array(
         'product-id' => 12899,
