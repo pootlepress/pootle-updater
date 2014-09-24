@@ -5,7 +5,7 @@
 
 $pluginsInfo = array(
      'cx-menu-customizer-master' => array(
-        'product-id' => 16200,
+        'product-id' => 16202,
         'name' => 'Canvas Extension - Menu Customizer',
         'latest-version' => '0.9.1',
         'description' => '<li>0.9.1 - Fix warning message / Fix call to action text shadow</li>'
