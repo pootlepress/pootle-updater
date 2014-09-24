@@ -4,6 +4,12 @@
  */
 
 $pluginsInfo = array(
+     'cx-menu-customizer-master' => array(
+        'product-id' => 10896,
+        'name' => 'Canvas Extension - Menu Customizer',
+        'latest-version' => '0.9.1',
+        'description' => '<li>0.9.1 - Fix warning message / Fix call to action text shadow</li>'
+    ),
     'cx-align-menu-right-master' => array(
         'product-id' => 10896,
         'name' => 'Canvas Extension - Align Menu Right',
