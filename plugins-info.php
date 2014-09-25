@@ -97,8 +97,8 @@ $pluginsInfo = array(
         'cx-sticky-header-2-master' => array(
         'product-id' => 11531,
         'name' => 'Canvas Extension - Sticky Header',
-        'latest-version' => '2.1',
-        'description' => '<li>2.1 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '2.1.2',
+        'description' => '<li>v2.1.2 - fix compatiblity with horizontal sub-menu extensions and align menu right option / fix primary nav appearing in middle of header issue / fix top nav dropdown going under primary nav / fix bug with header images not working</li><li>2.1 - Ability to get update notifications & update within WordPress</li>'
     ),
         'cx-footer-widget-manager-master' => array(
         'product-id' => 11305,
