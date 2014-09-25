@@ -7,8 +7,8 @@ $pluginsInfo = array(
      'cx-menu-customizer-master' => array(
         'product-id' => 16202,
         'name' => 'Canvas Extension - Menu Customizer',
-        'latest-version' => '0.9.1',
-        'description' => '<li>0.9.1 - Fix warning message / Fix call to action text shadow</li>'
+        'latest-version' => '0.9.2',
+        'description' => '<li>0.9.2 - new option for sub-menu hover text color / fix top level menu item margins / fix navbar rounded corners effecting first sub-menu item / fix warning message</li><li>0.9.1 - Fix warning message / Fix call to action text shadow</li>'
     ),
     'cx-align-menu-right-master' => array(
         'product-id' => 10896,
