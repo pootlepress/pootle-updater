@@ -7,8 +7,8 @@ $pluginsInfo = array(
      'cx-menu-customizer-master' => array(
         'product-id' => 16202,
         'name' => 'Canvas Extension - Menu Customizer',
-        'latest-version' => '1.0.2',
-        'description' => '<li>1.0.2 - Fix align menu right on full width layout </li>'
+        'latest-version' => '1.0.3',
+        'description' => '<li>1.0.3 - fix divider / add more help text / fix menu item rounded corner issue / other fixes</li><li>1.0.2 - Fix align menu right on full width layout </li>'
     ),
     'cx-align-menu-right-master' => array(
         'product-id' => 10896,
