@@ -23,7 +23,7 @@ $pluginsInfo = array(
         'description' => '<li>1.2.1 - Fix - nav width in box layout / Fix - top nav goes under primary nav / Fix - mobile menu</li><li>v1.2 - ability to update within WordPress</li>'
     ),
     'cx-page-customizer-master' => array(
-        'product-id' => 14480,
+        'product-id' => 16951,
         'name' => 'Canvas Extension - Page Customizer',
         'latest-version' => '1.3',
         'description' => '<a href="http://www.pootlepress.com/change-logs/canvas-page-customizer-change-log/" target="_blank">View change log</a>'
