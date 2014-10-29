@@ -49,8 +49,8 @@ $pluginsInfo = array(
      'cx-masonry-blog-master' => array(
         'product-id' => 13403,
         'name' => 'Canvas Extension - Masonry Blog',
-        'latest-version' => '1.1.1',
-        'description' => '<li>1.1.1 - fix infinite scroll</li><li>1.1 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.1.2',
+        'description' => '<li>1.1.2 - fix magazine slider appearing under posts</li><li>1.1.1 - fix infinite scroll</li><li>1.1 - Ability to get update notifications & update within WordPress</li>'
     ),
     'cx-featured-video-for-slider-master' => array(
         'product-id' => 13145,
