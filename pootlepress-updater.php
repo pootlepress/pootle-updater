@@ -45,7 +45,10 @@ function pootlepress_updater() {
                             $obj->name = $pluginsInfo[$pluginSlug]['name'];
                             $obj->new_version = $pluginsInfo[$pluginSlug]['latest-version'];
 //                $obj->requires = '3.0';
-//                $obj->tested = '3.9.1';
+                            if (isset($pluginsInfo[$pluginSlug]['testedWP'])) {
+                                $obj->tested = $pluginsInfo[$pluginSlug]['testedWP'];
+                            }
+//                  $obj->tested = '3.9.1';
 //                $obj->downloaded = 12540;
 //                $obj->last_updated = '2014-07-12';
                             $obj->sections = array(
@@ -74,6 +77,11 @@ function pootlepress_updater() {
                 $pluginSlug = $_GET['plugin'];
                 if (isset($pluginsInfo[$pluginSlug])) {
 
+                    $ip = $_SERVER['REMOTE_ADDR'];
+                    if (isset($ip) && $ip != '') {
+                        pp_updater_increase_download_count($ip, $pluginSlug);
+                    }
+
                     $productID = $pluginsInfo[$pluginSlug]['product-id'];
                     $product = new WC_Product($productID);
 
@@ -99,4 +107,58 @@ function pootlepress_updater() {
         }
 
     }
+}
+
+function pp_updater_increase_download_count($ip, $pluginSlug) {
+    global $wpdb;
+    $table = $wpdb->prefix . 'updater_stats';
+    $rows = $wpdb->get_results($wpdb->prepare("SELECT * FROM $table WHERE ip = %s AND plugin = %s", $ip, $pluginSlug), ARRAY_A);
+
+    if ($rows === null || $rows === false) {
+        $createNewRow = true;
+    } else {
+        if (count($rows) > 0) {
+            $createNewRow = false;
+        } else {
+            $createNewRow = true;
+        }
+    }
+
+    if ($createNewRow) {
+        $wpdb->insert($table, array('ip' => $ip, 'plugin' => $pluginSlug, 'download_count' => 1));
+    } else {
+        $row = $rows[0];
+        $currentCount = (int)$row['download_count'];
+        $wpdb->update($table, array('download_count' => $currentCount + 1), array('ip' => $ip, 'plugin' => $pluginSlug));
+    }
+}
+
+register_activation_hook( __FILE__, 'pp_updater_activation');
+
+function pp_updater_activation() {
+    global $wpdb;
+
+    require_once( ABSPATH . 'wp-admin/includes/upgrade.php' );
+
+    $collate = '';
+
+    if ( $wpdb->has_cap( 'collation' ) ) {
+        if ( ! empty($wpdb->charset ) ) {
+            $collate .= "DEFAULT CHARACTER SET $wpdb->charset";
+        }
+        if ( ! empty($wpdb->collate ) ) {
+            $collate .= " COLLATE $wpdb->collate";
+        }
+    }
+
+    $table = "
+	CREATE TABLE {$wpdb->prefix}updater_stats (
+	  id INT NOT NULL auto_increment,
+	  ip VARCHAR(50) NOT NULL,
+	  plugin TEXT NOT NULL,
+	  download_count INT NOT NULL,
+	  PRIMARY KEY (id)
+	) $collate;
+	";
+    dbDelta( $table );
 }
