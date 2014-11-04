@@ -7,8 +7,8 @@ $pluginsInfo = array(
      'cx-menu-customizer-master' => array(
         'product-id' => 16202,
         'name' => 'Canvas Extension - Menu Customizer',
-        'latest-version' => '1.0.3',
-        'description' => '<li>1.0.3 - fix divider / add more help text / fix menu item rounded corner issue / other fixes</li><li>1.0.2 - Fix align menu right on full width layout </li>'
+        'latest-version' => '1.0.4',
+        'description' => '<a href="http://www.pootlepress.com/change-logs/menu-customizer-change-log/" target="_blank">View change log</a>'
     ),
     'cx-align-menu-right-master' => array(
         'product-id' => 10896,
@@ -73,8 +73,8 @@ $pluginsInfo = array(
     'cx-logo-inside-nav-master' => array(
         'product-id' => 12473,
         'name' => 'Canvas Extension - Logo Inside Nav',
-        'latest-version' => '1.2.1',
-        'description' => '<li>1.2.1 - compatibility with horizontal sub menu extension</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.2.2',
+        'description' => '<li>1.2.2 - Fix mobile menu order of top and primary navs / fix php error message</li><li>1.2.1 - compatibility with horizontal sub menu extension</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
     ),
     'cx-menus-apple-master' => array(
         'product-id' => 12300,
