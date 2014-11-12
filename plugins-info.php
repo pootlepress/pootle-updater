@@ -29,11 +29,11 @@ $pluginsInfo = array(
         'description' => '<a href="http://www.pootlepress.com/change-logs/canvas-page-customizer-change-log/" target="_blank">View change log</a>'
     ),
     'page-builder-for-canvas-master' => array(
-        'product-id' => 13731,
+        'product-id' => 16985,
         'name' => 'Canvas Extension - Page Builder for Canvas',
-        'latest-version' => '1.1.2',
-        'description' => '<li>1.1.2 - fix list styling in visual editor widget & magazine slider widget</li><li>1.1.1 - Fix bottom margin for row</li><li>1.1. - ability to update within WordPress</li>',
-        'upgrade-notice' => 'Upgrade Notice <a href="http://www.google.com">Click Here</a>'
+        'latest-version' => '2.0.1',
+        'description' => '<a href="http://www.pootlepress.com/change-logs/canvas-page-builder-change-log/" target="_blank">View change log</a>',
+        'upgrade-notice' => 'Version 2 is a MAJOR update. Please ensure that you backup your site before updating. <a href="http://www.pootlepress.com/change-logs/canvas-page-builder-change-log/" target="_blank">View change log</a>'
     ),
     'cx-horizontal-sub-menu-master' => array(
         'product-id' => 14337,
