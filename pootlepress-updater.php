@@ -67,6 +67,26 @@ function pootlepress_updater() {
                         die();
                     }
                     break;
+                case 'upgrade-notice':
+                    if (isset($_POST['plugin'])) {
+                        $pluginSlug = $_POST['plugin'];
+                        if (isset($pluginsInfo[$pluginSlug])) {
+                            if (isset($pluginsInfo[$pluginSlug]['upgrade-notice'])) {
+                                echo $pluginsInfo[$pluginSlug]['upgrade-notice'];
+                                die();
+                            } else {
+                                echo "false";
+                                die();
+                            }
+                        } else {
+                            echo 'false';
+                            die();
+                        }
+                    } else {
+                        echo "false";
+                        die();
+                    }
+                    break;
                 case 'license':
                     echo 'false';
                     die();
