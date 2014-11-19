@@ -31,9 +31,8 @@ $pluginsInfo = array(
     'page-builder-for-canvas-master' => array(
         'product-id' => 16985,
         'name' => 'Canvas Extension - Page Builder for Canvas',
-        'latest-version' => '2.0.1',
-        'description' => '<a href="http://www.pootlepress.com/change-logs/canvas-page-builder-change-log/" target="_blank">View change log</a>',
-        'upgrade-notice' => 'Version 2 is a MAJOR update. Please ensure that you backup your site before updating. <a href="http://www.pootlepress.com/change-logs/canvas-page-builder-change-log/" target="_blank">View change log</a>'
+        'latest-version' => '2.1',
+        'description' => 'This is a MAJOR update. Please read <a href="http://www.pootlepress.com/canvas-extensions/help/canvas-page-builder/" target="_blank">this message</a> before updating.'
     ),
     'cx-horizontal-sub-menu-master' => array(
         'product-id' => 14337,
