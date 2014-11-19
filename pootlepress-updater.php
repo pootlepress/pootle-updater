@@ -2,7 +2,7 @@
 /*
 Plugin Name: PootlePress Updater
 Description: Updater for PootlePress Server
-Version: 1.1.0
+Version: 1.1.1
 Author: PootlePress
 Author URI: http://pootlepress.com/
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
