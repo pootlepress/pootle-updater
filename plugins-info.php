@@ -73,8 +73,8 @@ $pluginsInfo = array(
     'cx-logo-inside-nav-master' => array(
         'product-id' => 12473,
         'name' => 'Canvas Extension - Logo Inside Nav',
-        'latest-version' => '1.2.2',
-        'description' => '<li>1.2.2 - Fix mobile menu order of top and primary navs / fix php error message</li><li>1.2.1 - compatibility with horizontal sub menu extension</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.3',
+        'description' => 'Version 1.3<br><li>New - now works with Top Nav and primary nav remains</li><li>Tweak - remove notification about top nav</li><li>Tweak - new add option method for option heading in Canvas dashboard</li><li>Fix - error messages and styling issues</li><li>1.2.2 - Fix mobile menu order of top and primary navs / fix php error message</li><li>1.2.1 - compatibility with horizontal sub menu extension</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
     ),
     'cx-menus-apple-master' => array(
         'product-id' => 12300,
