@@ -25,7 +25,7 @@ $pluginsInfo = array(
     'cx-page-customizer-master' => array(
         'product-id' => 16951,
         'name' => 'Canvas Extension - Page Customizer',
-        'latest-version' => '1.3',
+        'latest-version' => '1.3.1',
         'description' => '<a href="http://www.pootlepress.com/change-logs/canvas-page-customizer-change-log/" target="_blank">View change log</a>'
     ),
     'page-builder-for-canvas-master' => array(
