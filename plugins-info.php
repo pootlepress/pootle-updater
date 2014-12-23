@@ -7,7 +7,7 @@ $pluginsInfo = array(
      'cx-menu-customizer-master' => array(
         'product-id' => 16202,
         'name' => 'Canvas Extension - Menu Customizer',
-        'latest-version' => '1.0.4',
+        'latest-version' => '1.1',
         'description' => '<a href="http://www.pootlepress.com/change-logs/menu-customizer-change-log/" target="_blank">View change log</a>'
     ),
     'cx-align-menu-right-master' => array(
@@ -31,9 +31,9 @@ $pluginsInfo = array(
     'page-builder-for-canvas-master' => array(
         'product-id' => 16985,
         'name' => 'Canvas Extension - Page Builder for Canvas',
-        'latest-version' => '2.2.1',
+        'latest-version' => '2.2.2',
         'description' => 'This is a MAJOR update. Please read <a href="http://www.pootlepress.com/canvas-extensions/help/canvas-page-builder/" target="_blank">this message</a> before updating.',
-        'upgrade-notice' => 'This is a MAJOR update. Please backup your site before updating. Read <a href="http://www.pootlepress.com/canvas-extensions/help/canvas-page-builder/" target="_blank">this message</a> for more details.'
+        'upgrade-notice' => '2.2.x is a MAJOR update. Please backup your site before updating. Read <a href="http://www.pootlepress.com/canvas-extensions/help/canvas-page-builder/" target="_blank">this message</a> for more details.'
     ),
     'cx-horizontal-sub-menu-master' => array(
         'product-id' => 14337,
