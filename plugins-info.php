@@ -17,7 +17,7 @@ $pluginsInfo = array(
         'description' => '<li>1.1.1 - Make compatible with Sticky Header 2 & fix mobile panel issue</li><li>1.1 - ability to update within WordPress</li>'
     ),
     'cx-sticky-nav-master' => array(
-        'product-id' => 10897,
+        'product-id' => 17140,
         'name' => 'Canvas Extension - Sticky Nav',
         'latest-version' => '1.2.2',
         'description' => '<li>1.2.2 - Tweak - new add option method to add Sticky Nav heading in Canvas settings area / Fix - Revolution Slider issue</li><li>1.2.1 - Fix - nav width in box layout / Fix - top nav goes under primary nav / Fix - mobile menu</li><li>v1.2 - ability to update within WordPress</li>'
