@@ -67,9 +67,9 @@ $pluginsInfo = array(
     ),
     'cx-mobile-menu-customizer-2.0' => array(
         'product-id' => 17136,
-        'name' => 'Canvas Extension - Mobile Menu Manager',
+        'name' => 'Canvas Extension - Mobile Menu Customizer',
         'latest-version' => '2.0',
-        'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
+        'description' => '<a href="http://www.pootlepress.com/change-logs/mobile-menu-customizer-change-log/" target="_blank">View change log</a>'
     ),
     'cx-logo-inside-nav-master' => array(
         'product-id' => 17130,
