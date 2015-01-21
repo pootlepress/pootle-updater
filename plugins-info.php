@@ -65,9 +65,9 @@ $pluginsInfo = array(
         'latest-version' => '1.2',
         'description' => '<li>1.2 - Ability to get update notifications & update within WordPress</li>'
     ),
-    'cx-mobile-menu-customizer-master' => array(
+    'cx-mobile-menu-customizer-2.0' => array(
         'product-id' => 17136,
-        'name' => 'Canvas Extension - Mobile Menu Customizer',
+        'name' => 'Canvas Extension - Mobile Menu Manager',
         'latest-version' => '2.0',
         'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
     ),
