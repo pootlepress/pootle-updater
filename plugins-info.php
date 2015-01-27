@@ -96,7 +96,7 @@ $pluginsInfo = array(
         'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
     ),
         'cx-sticky-header-2-master' => array(
-        'product-id' => 11531,
+        'product-id' => 17126,
         'name' => 'Canvas Extension - Sticky Header',
         'latest-version' => '2.1.3',
         'description' => '<a href="http://www.pootlepress.com/change-logs/sticky-header-change-log/" target="_blank">View change log</a>'
