@@ -13,14 +13,14 @@ $pluginsInfo = array(
     'cx-align-menu-right-master' => array(
         'product-id' => 10896,
         'name' => 'Canvas Extension - Align Menu Right',
-        'latest-version' => '1.1.1',
-        'description' => '<li>1.1.1 - Make compatible with Sticky Header 2 & fix mobile panel issue</li><li>1.1 - ability to update within WordPress</li>'
+        'latest-version' => '1.1.2',
+        'description' => '<a href="http://www.pootlepress.com/change-logs/align-menu-right-change-log/" target="_blank">View change log</a>'
     ),
     'cx-sticky-nav-master' => array(
         'product-id' => 17140,
         'name' => 'Canvas Extension - Sticky Nav',
-        'latest-version' => '1.2.2',
-        'description' => '<li>1.2.2 - Tweak - new add option method to add Sticky Nav heading in Canvas settings area / Fix - Revolution Slider issue</li><li>1.2.1 - Fix - nav width in box layout / Fix - top nav goes under primary nav / Fix - mobile menu</li><li>v1.2 - ability to update within WordPress</li>'
+        'latest-version' => '1.2.3',
+        'description' => '<a href="http://www.pootlepress.com/change-logs/sticky-nav-change-log/" target="_blank">View change log</a>'
     ),
     'cx-page-customizer-master' => array(
         'product-id' => 16951,
@@ -65,17 +65,17 @@ $pluginsInfo = array(
         'latest-version' => '1.2',
         'description' => '<li>1.2 - Ability to get update notifications & update within WordPress</li>'
     ),
-    'cx-mobile-menu-customizer-2.0' => array(
+    'cx-mobile-menu-customizer-master' => array(
         'product-id' => 17136,
         'name' => 'Canvas Extension - Mobile Menu Customizer',
-        'latest-version' => '2.0',
+        'latest-version' => '2.1',
         'description' => '<a href="http://www.pootlepress.com/change-logs/mobile-menu-customizer-change-log/" target="_blank">View change log</a>'
     ),
     'cx-logo-inside-nav-master' => array(
         'product-id' => 17130,
         'name' => 'Canvas Extension - Logo Inside Nav',
-        'latest-version' => '1.3',
-        'description' => 'Version 1.3<br><li>New - now works with Top Nav and primary nav remains</li><li>Tweak - remove notification about top nav</li><li>Tweak - new add option method for option heading in Canvas dashboard</li><li>Fix - error messages and styling issues</li><li>1.2.2 - Fix mobile menu order of top and primary navs / fix php error message</li><li>1.2.1 - compatibility with horizontal sub menu extension</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.4',
+        'description' => '<a href="http://www.pootlepress.com/change-logs/logo-inside-nav-change-log/" target="_blank">View change log</a>'
     ),
     'cx-menus-apple-master' => array(
         'product-id' => 12300,
