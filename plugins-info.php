@@ -98,7 +98,7 @@ $pluginsInfo = array(
         'cx-sticky-header-2-master' => array(
         'product-id' => 17126,
         'name' => 'Canvas Extension - Sticky Header',
-        'latest-version' => '2.1.3',
+        'latest-version' => '2.1.4',
         'description' => '<a href="http://www.pootlepress.com/change-logs/sticky-header-change-log/" target="_blank">View change log</a>'
     ),
         'cx-footer-widget-manager-master' => array(
