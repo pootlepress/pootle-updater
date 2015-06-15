@@ -44,8 +44,8 @@ $pluginsInfo = array(
     'cx-top-nav-manager-master' => array(
         'product-id' => 13610,
         'name' => 'Canvas Extension - Top Nav Manager',
-        'latest-version' => '1.3',
-        'description' => '<li>1.3 - Ability to get update notifications & update within WordPress</li>'
+        'latest-version' => '1.3.1',
+        'description' => '<a href="http://www.pootlepress.com/change-logs/top-nav-manager-change-log/" target="_blank">View change log</a>'
     ),
      'cx-masonry-blog-master' => array(
         'product-id' => 13403,
