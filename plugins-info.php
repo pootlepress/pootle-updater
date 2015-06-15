@@ -19,7 +19,7 @@ $pluginsInfo = array(
     'cx-sticky-nav-master' => array(
         'product-id' => 17140,
         'name' => 'Canvas Extension - Sticky Nav',
-        'latest-version' => '1.2.3',
+        'latest-version' => '1.2.4',
         'description' => '<a href="http://www.pootlepress.com/change-logs/sticky-nav-change-log/" target="_blank">View change log</a>'
     ),
     'cx-page-customizer-master' => array(
