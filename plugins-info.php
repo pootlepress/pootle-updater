@@ -42,31 +42,31 @@ $pluginsInfo = array(
         'upgrade-notice' => '2.2.x is a MAJOR update. Please backup your site before updating." target="_blank">this message</a> for more details.'
     ),
     'cx-horizontal-sub-menu-master' => array(
-        'product-id' => 14337,
+        'product-id' => 17151,
         'name' => 'Canvas Extension - Horizontal Sub-menu',
         'latest-version' => '1.1.1',
         'description' => '<li>v1.1.1 - fix submenu and icons</li><li>v1.1 - Ability to get update notifications & update within WordPress</li><li>1.0.1 -Add compat with Center Menu and Logo with Full Width</li>'
     ),
     'cx-top-nav-manager-master' => array(
-        'product-id' => 13610,
+        'product-id' => 17149,
         'name' => 'Canvas Extension - Top Nav Manager',
         'latest-version' => '1.3.1',
         'description' => '<a href="http://www.pootlepress.com/change-logs/top-nav-manager-change-log/" target="_blank">View change log</a>'
     ),
      'cx-masonry-blog-master' => array(
-        'product-id' => 13403,
+        'product-id' => 17154,
         'name' => 'Canvas Extension - Masonry Blog',
         'latest-version' => '1.1.2',
         'description' => '<li>1.1.2 - fix magazine slider appearing under posts</li><li>1.1.1 - fix infinite scroll</li><li>1.1 - Ability to get update notifications & update within WordPress</li>'
     ),
     'cx-featured-video-for-slider-master' => array(
-        'product-id' => 13145,
+        'product-id' => 17157,
         'name' => 'Canvas Extension - Featured Video for Slider',
         'latest-version' => '1.3',
         'description' => '<li>1.3 - add ability to use any full embed code for videos</li><li>1.2 - Ability to get update notifications & update within WordPress</li>'
     ),
     'cx-font-awesome-menus-for-canvas-master' => array(
-        'product-id' => 12899,
+        'product-id' => 17144,
         'name' => 'Canvas Extension - Font Awesome Menus for Canvas',
         'latest-version' => '1.2',
         'description' => '<li>1.2 - Ability to get update notifications & update within WordPress</li>'
@@ -114,7 +114,7 @@ $pluginsInfo = array(
         'description' => '<li>1.1 - Ability to get update notifications & update within WordPress</li>'
     ),
         'cx-menu-pack-master' => array(
-        'product-id' => 11305,
+        'product-id' => 10900,
         'name' => 'Canvas Extension - Menu Pack',
         'latest-version' => '1.3',
         'description' => '<li>1.3 - Ability to get update notifications & update within WordPress</li>'
