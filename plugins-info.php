@@ -4,6 +4,12 @@
  */
 
 $pluginsInfo = array(
+     'cx-woocommerce-customizer-master' => array(
+        'product-id' => 18745,
+        'name' => 'Canvas Extension - Menu Customizer',
+        'latest-version' => '1.0.0',
+        'description' => '<a href="http://www.pootlepress.com/change-logs/" target="_blank">View change log</a>'
+    ),
      'cx-menu-customizer-master' => array(
         'product-id' => 16202,
         'name' => 'Canvas Extension - Menu Customizer',
