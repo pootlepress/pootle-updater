@@ -6,14 +6,14 @@
 $pluginsInfo = array(
      'cx-woocommerce-customizer-master' => array(
         'product-id' => 18745,
-        'name' => 'Canvas Extension - Menu Customizer',
+        'name' => 'WooCommerce Customizer for WooThemes Canvas',
         'latest-version' => '1.0.0',
         'description' => '<a href="http://www.pootlepress.com/change-logs/" target="_blank">View change log</a>'
     ),
      'cx-menu-customizer-master' => array(
         'product-id' => 16202,
         'name' => 'Canvas Extension - Menu Customizer',
-        'latest-version' => '1.1',
+        'latest-version' => '2.1.0',
         'description' => '<a href="http://www.pootlepress.com/change-logs/menu-customizer-change-log/" target="_blank">View change log</a>'
     ),
     'cx-align-menu-right-master' => array(
@@ -37,7 +37,7 @@ $pluginsInfo = array(
     'page-builder-for-canvas-master' => array(
         'product-id' => 16985,
         'name' => 'Canvas Extension - Page Builder for Canvas',
-        'latest-version' => '2.2.10',
+        'latest-version' => '2.2.10.1',
         'description' => '2.2.x is a MAJOR update. Please backup your site before updating." target="_blank">this message</a> before updating.',
         'upgrade-notice' => '2.2.x is a MAJOR update. Please backup your site before updating." target="_blank">this message</a> for more details.'
     ),
